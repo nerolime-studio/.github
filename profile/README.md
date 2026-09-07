@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://nerolime.com">
+    <img src="assets/nerolime-github-header.png" alt="NeroLime Studio — siti web chiari, veloci e professionali per attività in tutta Italia" width="100%">
+  </a>
+</p>
+
 # NeroLime Studio
 
 Progettiamo e realizziamo siti web chiari, veloci e professionali per attività in tutta Italia.
